@@ -8,7 +8,7 @@ const Sidebar= () => {
   return (
     <Menu>
       <Link className="menu-item" to="/">
-        Home
+        Home 
       </Link>
       <Link className="menu-item" to="/salad">
         Salads
