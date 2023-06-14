@@ -2,7 +2,7 @@ import React from 'react'
 
 const Pizza = () => {
   return (
-    <div>Pizzaaaaaaaaaaaaaaaaa</div>
+    <div>Pizzaaaaaaaaaaaaaaaaa  Veno??</div>
   )
 }
 
