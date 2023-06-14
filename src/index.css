@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+
+#page-wrap {
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+#Title{
+    margin-left: 90px;
+    text-align: center;
+    /* margin-bottom: 20px; */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

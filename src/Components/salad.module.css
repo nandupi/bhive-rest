@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.pic>img{
+    height: 100vh;
+    width: 100vw;
+    margin-top: 2rem;
+}

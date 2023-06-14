@@ -1,0 +1,16 @@
+{
+  "user": [
+    {
+      "name": "sangeeta",
+      "salary": "20000",
+      "company": "aepl",
+      "id": 2
+    },
+    {
+      "name": "rgdtrgt",
+      "salary": "4546",
+      "company": "fgh",
+      "id": 3
+    }
+  ]
+}
